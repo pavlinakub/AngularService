@@ -1,0 +1,2 @@
+this.inactiveUsers.splice(id, 1);   //splice=>remove element
+    
