@@ -1,0 +1,4 @@
+PROVIDERS
+ -ap.module =>service je dostupna v celem dokumentu
+ -app.component =>service je dostupna pro vsechny componenty ale ne pro ostatni service a uz neni dostupna pro app.module
+ -other.component =>service je dostupna pro dany component a jeho deti ale nikde jinde
